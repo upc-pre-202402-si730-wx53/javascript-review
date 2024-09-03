@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "javascript-review",
+  "version": "1.0.0",
+  "description": "JavaScript Review",
+  "module": "src/index.js",
+  "scripts": {
+    "startx": "node src/index.js"
+  },
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
